@@ -1,1 +1,6 @@
-st
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+xgboost
